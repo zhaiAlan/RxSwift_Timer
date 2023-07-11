@@ -1,0 +1,13 @@
+target 'RXSwiftDemo' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+  pod 'RxSwift'
+  pod 'RxCocoa'
+  pod 'RxDataSources'
+  pod 'SnapKit', '~> 5.0.0'
+  pod 'Kingfisher'
+  pod 'HandyJSON'
+  pod 'JXPhotoBrowser'
+  # Pods for 003-RxCocoa-TableView
+
+end
